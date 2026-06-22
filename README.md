@@ -1,5 +1,5 @@
 # Application Automator
 
-End-to-end job application with Playwright. **Use ethically, with human oversight.**
+End-to-end job application with Playwright. Use ethically.
 
-Supports LinkedIn Easy Apply etc.
+**Warning**: Respect terms of service. Human oversight recommended.
