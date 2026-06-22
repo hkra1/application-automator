@@ -1,2 +1,5 @@
-# application-automator
-End-to-end job application automation with Playwright
+# Application Automator
+
+End-to-end job application with Playwright. **Use ethically, with human oversight.**
+
+Supports LinkedIn Easy Apply etc.
